@@ -1,17 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-01-09T18:35:53+00:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2023/01/09/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-01-09T00:43:21+00:00</published><updated>2023-01-09T00:43:21+00:00</updated><id>/jekyll/update/2023/01/09/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2023/01/09/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://sharora.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sharora.github.io/" rel="alternate" type="text/html" /><updated>2023-07-06T11:01:01+00:00</updated><id>https://sharora.github.io/feed.xml</id><title type="html">sharora.github.io</title><subtitle>A blog documenting my personal projects and rambling about random topics.</subtitle><author><name>Shreyas Arora</name><email>.</email></author><entry><title type="html">blog reborn</title><link href="https://sharora.github.io/meta/2023/07/03/new-beginnings.html" rel="alternate" type="text/html" title="blog reborn" /><published>2023-07-03T00:00:00+00:00</published><updated>2023-07-03T00:00:00+00:00</updated><id>https://sharora.github.io/meta/2023/07/03/new-beginnings</id><content type="html" xml:base="https://sharora.github.io/meta/2023/07/03/new-beginnings.html"><![CDATA[<hr />
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p>For the past several years I have flirted with the idea of starting a blog.
+Every time school goes on break or the pressure from work and activities eases a
+bit I think to myself, wouldn’t it be cool to immortalize all the dumb ideas in
+my head just so that in the off chance someone reads them in the future they too
+can realize how stupid I am. Then I proceed to waste all my free time searching
+for the perfect blogging framework and when I finally do I’m out of time and I
+have to attend to actually “important” things again.</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<p>In all seriousness, I did end up starting a pseudonymous blog a couple years ago
+on which I posted a handful of times. I chose this route initially because I
+wanted the freedom anonymity provides; I can write about any topic freely and
+open up in a way that I have never been able to do talking with anyone before.
+However keeping the blog anonymous creates a couple of issues. Firstly since my
+name isn’t attached to the blog there is much less pressure to write anything of
+measurable quality (not claiming I can do this even with my name attached).
+Secondly there is a conflict of interest as in some cases I do want my name to
+be attached to my work like when I am writing about a technical topic or a
+personal project. The anonymity means that although I can write about some more
+personal topics, I can never write about anything connecting the blog directly
+to myself.</p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>As a result my motivation to write on that blog has fizzled out so I have closed
+it and decided to start fresh here. This time in order to address the above
+issues I am attaching this blog to my real name. This does mean that I won’t be able
+to write about some topics but I’m okay with that.</p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p>I have a couple ideas lined up to write about this summer so lets hope this time
+this time when I kick start the blog the engine keeps running. Thanks for reading
+and see you next time!</p>]]></content><author><name>Shreyas Arora</name><email>.</email></author><category term="meta" /><summary type="html"><![CDATA[]]></summary></entry></feed>
